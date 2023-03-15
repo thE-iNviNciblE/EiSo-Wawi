@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="YabE.eBayAPI">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>eBayAPI.vb</FileName>
+      <HashCode>AAAAAAAFEgAIAAAAMAAAQiAAkAAAAEIIAgAABABgAAE=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="YabE.eBayAPI.strBildModus" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>eBayAPI.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+  </Class>
+  <Class Name="YabE.clsSendeMail">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>clsSendeMail.vb</FileName>
+      <HashCode>AAAAgACAAAAAAAAACAAAQAADAAABAAAUACAgAAAgiAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YabE.Utilities.FTP.FTPclient">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>clsFTP.vb</FileName>
+      <HashCode>SAQAAAAAABABAACGAQAQAAiAAEIAAARCMAcQIAAACAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YabE.Utilities.FTP.FTPfileInfo">
+    <Position X="4.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>clsFTP.vb</FileName>
+      <HashCode>CAAAAwAAAAACwIYAEAAAAAAACAggAQAAABAAAAIACAA=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Enum Name="YabE.Utilities.FTP.FTPfileInfo.DirectoryEntryTypes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>clsFTP.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+  </Class>
+  <Class Name="YabE.Utilities.FTP.FTPdirectory">
+    <Position X="4.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>clsFTP.vb</FileName>
+      <HashCode>AAAAAAEAQAAAABAABAAAAAAAAQAAAAAAAAAAAAgAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YabE.clsHotKey">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>clsHotKey.vb</FileName>
+      <HashCode>AAAAACEAAAAAEIAAAAAACIAAAAAAAAAAAAAAQAAAAAI=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Class Name="YabE.clsHotKey.HotKeyObject" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>clsHotKey.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="YabE.clsHotKey.MODKEY" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>clsHotKey.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YabE.clsListview">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>clsListview.vb</FileName>
+      <HashCode>AIAAgAAAAAAAAAAAACAAAAAAAAQCAABAAAAIAAAAAQE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YabE.clsDatenbank">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>clsDatenbank.vb</FileName>
+      <HashCode>AEkGQBDSYFCIjAJArGQAQUyAAAAmggCJGSABJDAEIII=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="YabE.clsDatenbank.email_sprache" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>clsDatenbank.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="YabE.clsDatenbank.datenbankzugriff" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>clsDatenbank.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="YabE.clsDatenbank.chkBilderData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>clsDatenbank.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="YabE.clsDatenbank.modus" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>clsDatenbank.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="YabE.clsDatenbank.datentabelle" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>clsDatenbank.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="YabE.clsDatenbank.getlvwEbayLive" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>clsDatenbank.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+  </Class>
+  <Class Name="YabE.clsTimer">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>clsTimer.vb</FileName>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Struct Name="YabE.clsTimer.timeModus" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>clsTimer.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+  </Class>
+  <Class Name="YabE.WebFileDownloader">
+    <Position X="8.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>clsUpdateDownloader.vb</FileName>
+      <HashCode>BAAAAAAAAGAAIAAAACgAAgAAQIAAAAAAAAAAACAAAAQ=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="YabE.WebFileDownloader.chkModus" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>clsUpdateDownloader.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+  </Class>
+  <Class Name="YabE.comparebyFirstcolumn">
+    <Position X="6.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>clsListSortieren.vb</FileName>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAACAAAAAAAAAAAABEAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YabE.clsHiPerfTimer">
+    <Position X="6.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>clsHiPerfTimer.vb</FileName>
+      <HashCode>BAAABAAAAAAAAAAAhAAAAAAAAAAAAAAIAABAAAAIAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

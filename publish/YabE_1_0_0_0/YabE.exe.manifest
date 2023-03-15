@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="YabE.exe" version="1.0.0.0" publicKeyToken="4c7baa13686e6c7e" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="DNA_icon1.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="YabE" version="1.0.0.1" language="neutral" processorArchitecture="msil" />
+    <commandLine file="YabE.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.mshtml" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Office.Interop.Excel" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Vbe.Interop" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="office" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="vjslib" version="2.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="eBay.Service.dll" size="1445888">
+      <assemblyIdentity name="eBay.Service" version="3.555.5.0" publicKeyToken="1D9D786A5932EAF0" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>CZEmtlABVNOtnQlSzDZ/HPO2aSU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="eBayPictureService.dll" size="12800">
+      <assemblyIdentity name="eBayPictureService" version="3.531.0.0" publicKeyToken="1D9D786A5932EAF0" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>u4vRlbo55y7qhiP43SnrGrO7Wv4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Google.GData.Client.DLL" size="131072">
+      <assemblyIdentity name="Google.GData.Client" version="1.1.3.0" publicKeyToken="04A59CA9B0273830" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ivgwfcdVfGq+PkUWf9kYfK2SDk0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Google.GData.GoogleBase.dll" size="57344">
+      <assemblyIdentity name="Google.GData.GoogleBase" version="1.1.3.0" publicKeyToken="B361FAA2AD5BD3DB" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>5gqY3sDWQaTei5IqJBMO74g7gN4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.DHTMLEDLib.dll" size="57344">
+      <assemblyIdentity name="Interop.DHTMLEDLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>UUtZLhr4kFH6X7CYiGk5tummXsM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.Shell32.dll" size="53248">
+      <assemblyIdentity name="Interop.Shell32" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>sl/PYgWxpsB5NFoZfZtyQR9OzDs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="290816">
+      <assemblyIdentity name="MySql.Data" version="5.2.2.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>iorxzeQ6HBvKw7HUxmTqnUWh3HI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="YabE.exe" size="2375680">
+      <assemblyIdentity name="YabE" version="1.0.0.1" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>dd/3YdIlmesqW8e7Mn0voyEZvOA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="DNA_icon1.ico" size="15086">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+7C2rS0WREmEjoAahtKVtuqEtBU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="YabE.exe.config" size="9466">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>pHJPYOHFMlTuCtH9Tcpxwb3inZI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LEAF\Administrator" issuerKeyHash="ce06001795ca5c45fff44a8715c3eabcf6a12c5e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>dO9Phie7yqHt6+dcy5eBhG+a6/Q=</DigestValue></Reference></SignedInfo><SignatureValue>I+cc/AU9kW9o7nJN+hMjJsfoXv4yVmfvnEhVXVWvbLrVZFNve1qh7qN0Nk//Egwz3JnssF9myU7Ucfp6F3F4WoCRK+oDGKJCc3aZR/3/XNMGzYTipnSqASAsAHIOMDexXVkQdOtqe9Qiue3HsiTEZzJR1xrbmK2V3lfSvLUaUKg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1Ga18Bj2SHqQfjYYfwjmKqHVI8IMQTA5vdBHvnAFYR2i+miKGjHE5RwBvieGFXPTMLX9S2/fg6dU4X0wxGQXXrelBSvC05EeYYOp5EARj6VwcWWrqcLCECU9i7VNfK71P61J40SioDTKi3r6cAX5+ttytW7g9LWVE8Zu5sW1W50=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f4eb9a6f848197cb5ce7ebeda1cabb27864fef74" Description="" Url=""><as:assemblyIdentity name="YabE.exe" version="1.0.0.0" publicKeyToken="4c7baa13686e6c7e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LEAF\Administrator</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>vInlqO6VxtLoR1Jz5l1oMjx76CA=</DigestValue></Reference></SignedInfo><SignatureValue>zREncK5j9+VSUjjOugtwvqp+oAgS5YgFEySdggwxneJhjQ+EM7oHXqESjDVVdzXDelzITndBUEWaYameVMF80V3kTDQOoelVBMQ5fXEamP36E/uUXCUDCQuOKhWKuOQ6CtR4GQNxvV2+kctw/Z+GWCjc4PGdp6ejJs19INWjrxc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1Ga18Bj2SHqQfjYYfwjmKqHVI8IMQTA5vdBHvnAFYR2i+miKGjHE5RwBvieGFXPTMLX9S2/fg6dU4X0wxGQXXrelBSvC05EeYYOp5EARj6VwcWWrqcLCECU9i7VNfK71P61J40SioDTKi3r6cAX5+ttytW7g9LWVE8Zu5sW1W50=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUagAwIBAgIQH5JQGyesGrVGDxe5yB8dFzAJBgUrDgMCHQUAMC8xLTArBgNVBAMeJABMAEUAQQBGAFwAQQBkAG0AaQBuAGkAcwB0AHIAYQB0AG8AcjAeFw0wODA1MjExNzI2MjJaFw0wOTA1MjEyMzI2MjJaMC8xLTArBgNVBAMeJABMAEUAQQBGAFwAQQBkAG0AaQBuAGkAcwB0AHIAYQB0AG8AcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA1Ga18Bj2SHqQfjYYfwjmKqHVI8IMQTA5vdBHvnAFYR2i+miKGjHE5RwBvieGFXPTMLX9S2/fg6dU4X0wxGQXXrelBSvC05EeYYOp5EARj6VwcWWrqcLCECU9i7VNfK71P61J40SioDTKi3r6cAX5+ttytW7g9LWVE8Zu5sW1W50CAwEAATAJBgUrDgMCHQUAA4GBAM5FbHUIu7SazwXC3buxRc4kyCkuZSJrJVITBoQ/aVnElAOQdQE7gsgWBSIp+Z5pUow9bRyEIbF10q8Mix/200kX8CjbEB4lNvqBCC1xH2kU1YuMw2P0UcQqSvLEc5PE1t9rtDvbHTWS0AuB6dOXhy4iQ8q/dQLU66fsTqx4JHK0</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

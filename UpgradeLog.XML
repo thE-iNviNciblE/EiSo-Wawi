@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="YabE">
+</Property><Property Name="Projektmappendatei" Value="D:\Programmierung - Codeing\[= .NET =]\YabE\YabE.sln">
+</Property><Property Name="Benutzeroptionendatei" Value="D:\Programmierung - Codeing\[= .NET =]\YabE\YabE.suo">
+</Property><Property Name="Date" Value="Sonntag, 13. Juli 2008">
+</Property><Property Name="Time" Value="17:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="YabE.sln" Description="Datei wurde erfolgreich als &quot;D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\YabE.sln&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="" Source="YabE.suo" Description="Datei wurde erfolgreich als &quot;D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\YabE.suo&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="YabE" Source="YabE.vbproj" Description="Projektdatei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\YabE.vbproj">
+</Event><Event ErrorLevel="0" Project="YabE" Source="YabE.vbproj.user" Description="Die Projektbenutzerdatei wurde erfolgreich als &quot;D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\YabE.vbproj.user&quot; gesichert.">
+</Event><Event ErrorLevel="0" Project="YabE" Source="clsDatenbank.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\clsDatenbank.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="clsExport.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\clsExport.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="clsHiPerfTimer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\clsHiPerfTimer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="clsHotKey.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\clsHotKey.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="clsListSortieren.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\clsListSortieren.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="clsListview.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\clsListview.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="clsSendeMail.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\clsSendeMail.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="clsTimer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\clsTimer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="clsUpdateDownloader.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\clsUpdateDownloader.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="Dialog1.Designer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\Dialog1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="Dialog1.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\Dialog1.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="eBayAPI.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\eBayAPI.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="form1.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\form1.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="form1.Designer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="FormEndItem.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\FormEndItem.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="FormGetAccount.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\FormGetAccount.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="FormGetAllBidders.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\FormGetAllBidders.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="FormGetHighBidders.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\FormGetHighBidders.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="FormGetItem.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\FormGetItem.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="FormGetMemberMessages.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\FormGetMemberMessages.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="FormGetUser.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\FormGetUser.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="FormLeaveFeedback.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\FormLeaveFeedback.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmAuktionmanagement.Designer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmAuktionmanagement.Designer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmAuktionmanagement.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmAuktionmanagement.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmBestellverlauf.Designer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmBestellverlauf.Designer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmBestellverlauf.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmBestellverlauf.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmCMS_change_item.Designer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmCMS_change_item.Designer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmCMS_change_item.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmCMS_change_item.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmGoogleBase.Designer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmGoogleBase.Designer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmGoogleBase.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmGoogleBase.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmMessage.Designer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmMessage.Designer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmMessage.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmMessage.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmOptions.Designer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmOptions.Designer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmOptions.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmOptions.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmSendMailWait.Designer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmSendMailWait.Designer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmSendMailWait.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmSendMailWait.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="clsFTP.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\clsFTP.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmTranslationEditor.Designer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmTranslationEditor.Designer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmTranslationEditor.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmTranslationEditor.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmWait4Something.Designer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmWait4Something.Designer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmWait4Something.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmWait4Something.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="modBasicFunctions.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\modBasicFunctions.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="My Project\AssemblyInfo.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="My Project\Application.Designer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="My Project\Resources.Designer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="My Project\Settings.Designer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="Settings.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\Settings.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="SplashScreen1.Designer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\SplashScreen1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="SplashScreen1.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\SplashScreen1.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="yabeDataSet.Designer.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\yabeDataSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="yabeDataSet.vb" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\yabeDataSet.vb">
+</Event><Event ErrorLevel="0" Project="YabE" Source="My Project\Application.myapp" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="YabE" Source="My Project\Settings.settings" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\linie2.GIF" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\linie2.GIF">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\linie.GIF" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\linie.GIF">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\options.ico" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\options.ico">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\closedown.ico" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\closedown.ico">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\add_user.ico" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\add_user.ico">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\Address-Book.ico" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\Address-Book.ico">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\statistics.ico" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\statistics.ico">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\Desktop2.ico" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\Desktop2.ico">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\search2.ico" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\search2.ico">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\Netdrive.ico" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\Netdrive.ico">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\Home.ico" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\Home.ico">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\Folder Clock.ico" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\Folder Clock.ico">
+</Event><Event ErrorLevel="0" Project="YabE" Source="YABE_UML.cd" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\YABE_UML.cd">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\icon_finanzen.gif" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\icon_finanzen.gif">
+</Event><Event ErrorLevel="0" Project="YabE" Source="Resources\Web.png" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\Resources\Web.png">
+</Event><Event ErrorLevel="0" Project="YabE" Source="app.config" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="YabE" Source="Resources\yabe_logo.png" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\Resources\yabe_logo.png">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\email3.gif" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\email3.gif">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\delete.ico" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\delete.ico">
+</Event><Event ErrorLevel="0" Project="YabE" Source="YabE.jpg" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\YabE.jpg">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\rechts.gif" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\rechts.gif">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\links.gif" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\links.gif">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\send.ico" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\send.ico">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\abbrechen.ico" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\abbrechen.ico">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\settings.ico" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\settings.ico">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\icon_ebay.png" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\icon_ebay.png">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\verlauf.ico" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\verlauf.ico">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\firefox_button.gif" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\firefox_button.gif">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\17765.gif" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\17765.gif">
+</Event><Event ErrorLevel="0" Project="YabE" Source="yabeDataSet.xsc" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\yabeDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="YabE" Source="yabeDataSet.xsd" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\yabeDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="YabE" Source="yabeDataSet.xss" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\yabeDataSet.xss">
+</Event><Event ErrorLevel="0" Project="YabE" Source="YabE_TemporaryKey.pfx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\YabE_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="DNA_icon1.ico" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\DNA_icon1.ico">
+</Event><Event ErrorLevel="0" Project="YabE" Source="Dialog1.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\Dialog1.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="form1.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\form1.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="FormGetItem.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\FormGetItem.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="FormLeaveFeedback.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\FormLeaveFeedback.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmAuktionmanagement.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmAuktionmanagement.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmOptions.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmOptions.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="My Project\Resources.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="SplashScreen1.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\SplashScreen1.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="FormEndItem.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\FormEndItem.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="FormGetAccount.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\FormGetAccount.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="FormGetAllBidders.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\FormGetAllBidders.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="FormGetHighBidders.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\FormGetHighBidders.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="FormGetMemberMessages.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\FormGetMemberMessages.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="FormGetUser.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\FormGetUser.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmBestellverlauf.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmBestellverlauf.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmCMS_change_item.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmCMS_change_item.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmGoogleBase.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmGoogleBase.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmMessage.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmMessage.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmSendMailWait.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmSendMailWait.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmTranslationEditor.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmTranslationEditor.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="frmWait4Something.resx" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\frmWait4Something.resx">
+</Event><Event ErrorLevel="0" Project="YabE" Source="pics\Get-Info.ico" Description="Datei erfolgreich gesichert als D:\Programmierung - Codeing\[= .NET =]\YabE\Backup\pics\Get-Info.ico">
+</Event><Event ErrorLevel="0" Project="YabE" Source="YabE.vbproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="YabE" Source="YabE.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="YabE.sln" Description="Die Projektmappe wurde erfolgreich konvertiert.">
+</Event><Event ErrorLevel="3" Project="" Source="YabE.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="YabE" Source="YabE.vbproj" Description="Überprüfung abgeschlossen: Aktualisierung von Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>

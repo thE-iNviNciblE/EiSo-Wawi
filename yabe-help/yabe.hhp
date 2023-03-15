@@ -1,0 +1,11 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=yabe.chm
+Contents file=yabe-help\yabe-main.hhc
+Display compile progress=No
+Index file=yabe-help\Index.hhk
+Language=0x407 Deutsch (Deutschland)
+
+
+[INFOTYPES]
+

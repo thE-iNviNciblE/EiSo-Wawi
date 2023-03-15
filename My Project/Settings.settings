@@ -1,0 +1,1122 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="lastTab" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Sandbox_CERTID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Sandbox_APPID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Production_APPID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Production_CERTID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="yabe_username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="yabe_pwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="popup_dauer" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="popup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="popup_soundfile" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="popup_soundfile_an" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="email_username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="email_pwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="email_smtp" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="email_pop3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="email_pop3before" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="datenbank_server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bludau-media.de</Value>
+    </Setting>
+    <Setting Name="datenbank_username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="datenbank_pwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ebay_username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ebay_sandbox" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="google_username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="google_pwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="google_server" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app_chkAutoLiveListe" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="app_chkAutoBewertung" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="splashscreen_dauer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="splashscreen" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="email_reconect" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ebay_ebaytime" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Production_devname" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Sandbox_devname" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Production_SignInUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://signin.ebay.com/ws/eBayISAPI.dll?SignIn</Value>
+    </Setting>
+    <Setting Name="Production_EpsServerUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://msa-e1.ebay.com/ws/eBayISAPI.dll?EpsBasicApp</Value>
+    </Setting>
+    <Setting Name="Production_Version" Type="System.String" Scope="User">
+      <Value Profile="(Default)">459</Value>
+    </Setting>
+    <Setting Name="Production_SoapApiServerUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.ebay.com/wsapi</Value>
+    </Setting>
+    <Setting Name="app_AutoLiveListeDauer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="app_AutoBewertungenHolen" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="ebay_pwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Production_ebaytoken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Sandbox_ebaytoken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="developer_email" Type="System.String" Scope="User">
+      <Value Profile="(Default)">jbludau@bludau-media.de</Value>
+    </Setting>
+    <Setting Name="ftp_server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bludau-media.de</Value>
+    </Setting>
+    <Setting Name="ftp_user" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ftp_pwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ftp_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/</Value>
+    </Setting>
+    <Setting Name="developer_crash_last" Type="System.String" Scope="User">
+      <Value Profile="(Default)">21.05.2008 22:28</Value>
+    </Setting>
+    <Setting Name="developer_crashcount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="app_autoupdate" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="yabe_accesslevel" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="api_getSellerList_page" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="gui_live_gebote" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="gui_live_beendet" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="gui_live_sofortkauf" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="gui_live_datumfilter" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="gui_live_auktionsende" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="gui_live_email_verschickt" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="APP_API_länge" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="APP_EMAIL_Adress_add" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="APP_EMAIL_Versandkosten_add" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="newsletter_versand_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">EiSo Newsletter</Value>
+    </Setting>
+    <Setting Name="newsletter_smtp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">cubss.net</Value>
+    </Setting>
+    <Setting Name="gui_live_colormod" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="app_api_log" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="mc_api_user" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="mc_api_pwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="gui_live_color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">224, 224, 224</Value>
+    </Setting>
+    <Setting Name="gui_live_topbuyer" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">192, 255, 192</Value>
+    </Setting>
+    <Setting Name="app_mantis_url" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://bugtrack.cubss.net/api/soap/mantisconnect.php</Value>
+    </Setting>
+    <Setting Name="app_mantis_usr" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app_mantis_pwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app_mantis_default_project" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="app_eBayZeit_startup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="gui_live_alle" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="email_smtp_port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="email_pop_port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">110</Value>
+    </Setting>
+    <Setting Name="email_absende_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">EiSo Auktion</Value>
+    </Setting>
+    <Setting Name="gui_color_bestellungen_bezahlt" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">GreenYellow</Value>
+    </Setting>
+    <Setting Name="gui_color_bestellungen_verschickt" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Chartreuse</Value>
+    </Setting>
+    <Setting Name="gui_color_bestellungen_bestellt" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">YellowGreen</Value>
+    </Setting>
+    <Setting Name="gui_color_bestellungen_storniert" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">PeachPuff</Value>
+    </Setting>
+    <Setting Name="gui_color_bestellungen_komplett" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">PaleGreen</Value>
+    </Setting>
+    <Setting Name="gui_outlooksync_outlook_folder_delcampe" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="gui_outlooksync_outlook_folder_ebay" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="gui_WebBrowserMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="delcampe_username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="delcampe_pwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="cubss_shop_lastselection" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="gui_options_last_tab" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="gui_delcampe_export_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="gui_delcampe_category_xml" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="gui_allow_groupBy" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="gui_lvw_bewertungen_columorder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="gui_lvw_bUse_Reorder_setting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="gui_lvw_kunden_columorder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="gui_lvw_bestellungen_columorder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="gui_lvw_cockpit_columorder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="yabe_debugmail_hardware" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="gui_outlooksync_outlook_folder_ebay_archiv" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="gui_outlooksync_outlook_folder_delcampe_archiv" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="yabe_email_debug_cc" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_startup_delcampe_bestellungen" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_startup_ebay_sync" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_minimize_tray" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="gui_webbrowser_IsOnTop" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="gui_webbrowser_transparent" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="gui_webbrowser_InfoBar" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="gui_webbrowser_NeuLaden" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="gui_dauer_cockpit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">14</Value>
+    </Setting>
+    <Setting Name="gui_dauer_kunden" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="gui_dauer_bestellungen" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="gui_dauer_bewertungen" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">14</Value>
+    </Setting>
+    <Setting Name="gui_lvw_artikelliste_reorder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="gui_lvw_newsletter_reorder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="yabe_delcampe_bilder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="yabe_trennzeichen" Type="System.String" Scope="User">
+      <Value Profile="(Default)">   »</Value>
+    </Setting>
+    <Setting Name="yabe_lvw_data_tab_reload" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="shop_url" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://eiso-shop.cubss.net/</Value>
+    </Setting>
+    <Setting Name="shop_username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="shop_pwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ftp_username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ftp_hochladepfad" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="yabe_gui_browser_windows_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1024, 768</Value>
+    </Setting>
+    <Setting Name="yabe_gui_browser_location" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="yabe_gui_kundenverlauf_location" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="yabe_gui_kundenverlauf_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="gui_color_artikel_vorbestellt" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">192, 255, 192</Value>
+    </Setting>
+    <Setting Name="gui_color_artikel_warteliste" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 192, 192</Value>
+    </Setting>
+    <Setting Name="yabe_progress_exakt_mode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="gui_webartikel_editmodus" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="gui_kunden_heute" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_lvw_hottracking" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_gui_shop_change_windows_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">815, 686</Value>
+    </Setting>
+    <Setting Name="yabe_gui_shop_location" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="yabe_gui_rechnungsdruck_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1278, 752</Value>
+    </Setting>
+    <Setting Name="yabe_gui_rechnungsdruck_location" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="yabe_gui_translator_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1152, 751</Value>
+    </Setting>
+    <Setting Name="yabe_gui_translator_location" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="yabe_gui_bestellverlauf_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">850, 567</Value>
+    </Setting>
+    <Setting Name="yabe_gui_bestellverlauf_location" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="yabe_plattform_cockpit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="yabe_plattform_kunden" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="yabe_plattform_bestellungen" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="yabe_pl_ebay_sendmail" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="yabe_pl_delcampe_sendmail" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="yabe_pl_shop_sendmail" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="yabe_bestellstatus_debug" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="magento_username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="magento_pwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="magento_url" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="startup_setup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="datenbank_db" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="yabe_keycode" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="bUse_ownPictures" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="shop_url_bilder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="bDeveloper_Mode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="shop_url_galerie" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="eBay_APILog" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="user_email" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="user_vorname" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="user_nachname" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="user_strasse" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="user_ort" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="user_plz" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="user_land" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="bank_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="bank_nr" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="bank_leitzahl" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="bank_IBAN" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="bank_BIC" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="user_USTID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="datenbank_compress" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="datenbank_pooling" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="user_telefon" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="yabe_shop_url" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="gui_artikel_menuesprache" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_gui_delcampe_export_dauer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="yabe_gui_delcampe_export_wochentag" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="yabe_gui_delcampe_export_uhrzeit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">19:30:00</Value>
+    </Setting>
+    <Setting Name="yabe_gui_delcampe_export_plattform" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="yabe_gui_bestellverwaltung_groupby_name" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_gui_bestellverwaltung_groupby_bestellstatus" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_gui_bestellverwaltung_groupby_muttersprache" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_gui_bestellverwaltung_groupby_land" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_gui_bestellverwaltung_groupby_verkaufsende" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_gui_bestellverwaltung_groupby_KeineGruppierung" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="yabe_gui_delcampe_export_fett" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_gui_delcampe_export_lastminute" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_gui_delcampe_export_fluroeszierend" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_gui_delcampe_export_kein_eigenes_bild" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_gui_delcampe_export_farbig_umrandet" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_gui_delcampe_export_untertitel" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_gui_delcampe_export_coast_liste_ganzoben" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_gui_delcampe_export_coast_cat_ganzoben" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_gui_delcampe_export_coast_startseite" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="APP_paypal_username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="APP_paypal_pwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="APP_paypal_signature" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="APP_paypal_aktiv" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="yabe_func_paypal_20_prozent" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">4.5</Value>
+    </Setting>
+    <Setting Name="yabe_func_paypal_20_transaktion" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.35</Value>
+    </Setting>
+    <Setting Name="yabe_func_paypal_21_prozent" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">4.7</Value>
+    </Setting>
+    <Setting Name="yabe_func_paypal_21_transaktion" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.25</Value>
+    </Setting>
+    <Setting Name="newsletter_smtp_port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="newsletter_pop3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="newsletter_pop3_port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">110</Value>
+    </Setting>
+    <Setting Name="yabe_gui_magento_export_storeview" Type="System.String" Scope="User">
+      <Value Profile="(Default)">base</Value>
+    </Setting>
+    <Setting Name="yabe_gui_magento_export_sichtbarkeit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Katalog, Suche</Value>
+    </Setting>
+    <Setting Name="yabe_gui_magento_export_menge" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="yabe_gui_magento_export_steuerklasse" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Versteuerbare Artikel</Value>
+    </Setting>
+    <Setting Name="yabe_gui_magento_export_status" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Aktiviert</Value>
+    </Setting>
+    <Setting Name="yabe_gui_magento_export_attributset" Type="System.String" Scope="User">
+      <Value Profile="(Default)">default</Value>
+    </Setting>
+    <Setting Name="yabe_gui_magento_export_shopname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">base</Value>
+    </Setting>
+    <Setting Name="yabe_gui_delcampe_lister3" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_gui_cms_update" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="yabe_gui_bewerten_defaultText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ok gerne wieder :-)</Value>
+    </Setting>
+    <Setting Name="yabe_gui_bewerten_chkRückbewertung" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="yabe_gui_rechnung_mwst" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">19</Value>
+    </Setting>
+    <Setting Name="yabe_gui_rechnung_mwst_versand" Type="System.String" Scope="User">
+      <Value Profile="(Default)">19</Value>
+    </Setting>
+    <Setting Name="yabe_magento_aktiv" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_magento_übernahme" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_magento_löschen" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_delcampe_gui_sichtbar" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="yabe_delcampe_gui_timer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="yabe_delcampe_export_sofortkauf" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_delcampe_export_steigerung" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0,5</Value>
+    </Setting>
+    <Setting Name="yabe_delcampe_export_erneuern" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_auktionsende_ebay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">13</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_auktionsende_delcampe" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">13</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_auktionsende_shop" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">13</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_auktionsende_magento" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">13</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_auktionsende_ebay_text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YABE -&gt; Auktionsende</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_auktionsende_delcampe_text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YABE -&gt; Auktionsende</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_auktionsende_shop_text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YABE -&gt; Auktionsende</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_auktionsende_magento_text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YABE -&gt; Auktionsende</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_bestellstatus_ebay_text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YABE  - Versandstatus</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_bestellstatus_ebay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_bestellstatus_delcampe_text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YABE  - Versandstatus</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_bestellstatus_delcampe" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_bestellstatus_shop_text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YABE  - Versandstatus</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_bestellstatus_shop" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_bestellstatus_magento_text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YABE  - Versandstatus</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_bestellstatus_magento" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_bestellstatus_betreff_ebay" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Betreff Bestellstatus</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_auktionsende_betreff_ebay" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Betreff Auktionsende</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_bestellstatus_betreff_delcampe" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Betreff Bestellstatus</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_auktionsende_betreff_delcampe" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Betreff Auktionsende</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_bestellstatus_betreff_shop" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Betreff Bestellstatus</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_auktionsende_betreff_shop" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Betreff Auktionsende</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_bestellstatus_betreff_magento" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Betreff Bestellstatus</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_auktionsende_betreff_magento" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Betreff Auktionsende</Value>
+    </Setting>
+    <Setting Name="yabe_magento_sync_mwst" Type="System.String" Scope="User">
+      <Value Profile="(Default)">19</Value>
+    </Setting>
+    <Setting Name="YabE_net_cubss_MagentoService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://www.philafriend.de/index.php/api/v2_soap/index/</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_rechnung_emailtext" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Rechnungsdruck -&gt; Email</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_rechnung_email_betreff" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Betreff Rechnungsdruck</Value>
+    </Setting>
+    <Setting Name="yabe_pl_magento_sendmail" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="yabe_finance_office_export" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\</Value>
+    </Setting>
+    <Setting Name="yabe_finance_office_kundennummer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">999</Value>
+    </Setting>
+    <Setting Name="yabe_finance_office_aktiv" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_delcampe_auction_end" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_paypal_item_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bestellung</Value>
+    </Setting>
+    <Setting Name="yabe_paypal_emailusername" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="anmeldung_firma" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="anmeldung_vorname" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="anmeldung_nachname" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="anmeldung_telefon" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="anmeldung_handy" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="anmeldung_email" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="anmeldung_strasse" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="anmeldung_stadt" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="anmeldung_postleitzahl" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="anmeldung_land" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="newsletter_versand_email" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="newsletter_versand_pwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="yabe_delcampek_auction_end" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="yabe_cockpit_mitwebgalerie" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="shop_url_eiso" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://eiso-shop.cubss.net</Value>
+    </Setting>
+    <Setting Name="shop_eiso_shopaktiv" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="email_ssl" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="mysql_timeout" Type="System.String" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="email_newsletter_ssl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">false</Value>
+    </Setting>
+    <Setting Name="email_newsletter_username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="email_versand_username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="delcampe_DE_EN_DELETE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_ebay_zahlhinweise_text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">eBay Zahlungshinweis</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_ebay_zahlhinweise" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">33</Value>
+    </Setting>
+    <Setting Name="chkNewsletterLIMIT" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="artikeldatenbank_neuste" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">250</Value>
+    </Setting>
+    <Setting Name="domain_id" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="domain_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="benutzername" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="passwort" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="shopste_main_kategorie" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="yabe_vorlage_auktionsende_shopste_text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shop Auktionsende</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_bestellstatus_shopste_text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YABE  - Versandstatus</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_bestellstatus_betreff_shopste" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Betreff Bestellstatus</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_auktionsende_shopste" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shop Auktionsende</Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_auktionsende_betreff_shopste" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Betreff Auktionsende </Value>
+    </Setting>
+    <Setting Name="yabe_vorlage_bestellstatus_shopste" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YABE  - Versandstatus</Value>
+    </Setting>
+    <Setting Name="yabe_pl_shopste_sendmail" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="shopste_lagerbestand_verwalten" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="server_api_url" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://shopste.com/</Value>
+    </Setting>
+    <Setting Name="email_testmodus_only" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="eiso_basis_sprache" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="eiso_rechnung_gui_druck" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="eiso_rechnung_gui_email" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="eiso_rechnung_gui_archivieren" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="eiso_rechnung_gui_keine_mwst" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="eiso_csv_export" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="eiso_shopname" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="user_firmenname" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="delcampe_api_token" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="EISO_SERVER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bludau-media.de</Value>
+    </Setting>
+    <Setting Name="EISO_SERVER_HTTPS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">N</Value>
+    </Setting>
+    <Setting Name="EISO_PREFIX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">JBM_</Value>
+    </Setting>
+    <Setting Name="DELCAMPE_AKTIV" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DELCAMPE_ENDE_BEI_NULL" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SHOPSTE_API_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://shopste.com/api.php</Value>
+    </Setting>
+    <Setting Name="eiso_rechnung_gui_ohnePaypal" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="startup_bshowotions" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="eiso_shop_englisch_an" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="eiso_shop_französisch_an" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="eiso_shop_ebay_links_an" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="eiso_ebay_item_add_versand_index" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="eiso_ebay_item_add_versand_kosten" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="eiso_ebay_item_add_kategorie" Type="System.String" Scope="User">
+      <Value Profile="(Default)">31740</Value>
+    </Setting>
+    <Setting Name="eiso_ebay_item_add_standort" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="translate_aktiv" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="translate_proxy" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="translate_tor_privoxy" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="eiso_shop_user_generate" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="webbrowser_modus_index" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="bInitCrypt" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ServerDatenaustausch_https" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https</Value>
+    </Setting>
+    <Setting Name="ServerDatenaustausch_url" Type="System.String" Scope="User">
+      <Value Profile="(Default)">api.bludau-media.de/EiSo/server_gen.php</Value>
+    </Setting>
+    <Setting Name="ServerDatenaustausch_url_delcampe" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.bludau-media.de/delcampe/auction_end.php</Value>
+    </Setting>
+    <Setting Name="lvw_live_picture" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="lvw_bestellung_picture" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="lvw_eiso_shop_picture" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="lvw_bestellung_monatsweise" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="lvw_live_monatsweise" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="lvw_kunden_monatsweise" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="lvw_bewertung_monatsweise" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="sys_first_start" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="eiso_shop_ftp_aktiv" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="email_newsletter_timeout" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20000</Value>
+    </Setting>
+    <Setting Name="email_auktionsende_timeout" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20000</Value>
+    </Setting>
+    <Setting Name="eiso_debug_email" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="eiso_email_cc" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="eiso_gui_radio_cockpitlast_mode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="eiso_gui_cockpit_beendet" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="eiso_gui_radio_bestellungen_last_mode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="eiso_gui_kunde_detailreport" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="eiso_gui_shop_ask_delete_status" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="eiso_gui_bestellung_subtab_index" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="eiso_gui_eiso_versandart_anzeigen" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="eiso_gui_eiso_versandkosten_rechnung_drucken" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="eiso_delcampe_versandkostenUndPaypal_en" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="eiso_delcampe_versandkostenUndPaypal_de" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="gui_lvw_bestellliste_kunden_reorder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="gui_lvw_bestellliste_artikel_reorder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="eiso_bestellstatus_window" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="bDEVMODE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FORK</Value>
+    </Setting>
+    <Setting Name="gui_eiso_lade_bilder" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="gui_eiso_rechnungsdruck_druckansicht" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="gui_kunden_gestern_ab" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="chkBildvorschau" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkBildvorschau_bestellung" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkBildvorschau_eiso_artikeldatenbank" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkEiSoArtikelverwaltung_kunden_details" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkEiSoDelcampe_remote_bilder_nutzen" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkEiSoDelcampe_remote_bilder_http_ersetzen" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

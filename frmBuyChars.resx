@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Label11.Text" xml:space="preserve">
+    <value>ALLGEMEINE GESCHÄFTSBEDINGUNGEN (AGB)
+von
+Jan Bludau
+Widukindstraße 16
+26121 Oldenburg
+
+1. Geltungsbereich
+1.1
+Diese Allgemeinen Geschäftsbedingungen (nachstehend AGB genannt) gelten für sämtliche Willenserklärungen,
+Verträge und rechtsgeschäftsähnlichen Handlungen von Jan Bludau  (nachfolgend "Verkäufer" genannt) mit
+Verbrauchern/Unternehmern (nachfolgend "Kunde" genannt). Von diesen Bedingungen abweichende
+Geschäftsbedingungen des Kunden finden keine Anwendung. Gegenbestätigungen des Kunden unter Hinweis
+auf eigene Geschäfts- und/oder Einkaufsbedingungen wird ausdrücklich widersprochen; diese werden nicht
+Bestandteil von Vereinbarungen, es sei denn, die Bedingungen werden durch Guido Krolik schriftlich bestätigt.
+
+2. Begriffsbestimmungen
+2.1
+Verbraucher im Sinne dieser AGB ist jede natürliche Person, die den Vertrag zu einem Zweck abschließt, der
+weder ihrer gewerblichen noch ihrer selbstständigen beruflichen Tätigkeit zugerechnet werden kann.
+2.2
+Unternehmer im Sinne dieser AGB ist eine natürliche oder juristische Person oder eine rechtsfähige
+Personengesellschaft, die bei Abschluss des Vertrages in Ausübung ihrer gewerblichen oder selbstständigen
+beruflichen Tätigkeit handelt.
+
+3. Preise, Versandkosten
+3.1
+Alle angegebenen Preise enthalten die in Deutschland jeweils geltende gesetzliche Mehrwertsteuer. Ausnahmen
+können gemäß UStG vorkommen, auf welche unter Nennung des entsprechenden Paragraphen im Angebot und
+in der Rechnung hingewiesen (Kleinunternehmer) wird.
+
+3.2
+Es handelt sich um einen digitalen Service für welchen keine Versandkosten bezahlt werden.
+
+5. Rückgabebelehrung
+5.1
+Sie können die gekauften Zeichen nicht wieder zurückgeben. 
+Sie werden in Ihrem Lizenzschlüssel zugeordnet und verbleiben als Guthaben.
+
+6. Gewährleistung, Untersuchungs- und Rügepflichten
+6.1
+Der Verkäufer haftet nur für Vorsatz und grobe Fahrlässigkeit.
+
+7. Haftung
+7.1
+Schadenersatzansprüche wegen Pflichtverletzung und aus unerlaubter Handlung sind sowohl gegenüber Guido Krolik
+als auch gegenüber seinen Erfüllungs- und Verrichtungsgehilfen ausgeschlossen, es sei denn, der Schaden
+wurde vorsätzlich oder grob fahrlässig verursacht.
+7.2
+Diese Beschränkung gilt nicht bei der Verletzung vertragswesentlicher Pflichten sowie für Personenschäden und
+für Schäden, die auf dem Fehlen einer zugesicherten Eigenschaft beruhen oder für die eine Haftung nach dem
+Produkthaftungsgesetz vorgesehen ist.
+7.3
+Nicht vorhersehbare Schäden und Mangelfolgeschäden sind von der Haftung ausgenommen, es sei denn, der
+Schaden wurde vorsätzlich vom Verkäufer herbeigeführt.
+8. Erfüllungsort und Gerichtstand
+8.1
+Erfüllungsort ist Oldenburg.
+8.2
+Ist der Kunde ein Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich rechtliches
+Sondervermögen, ist ausschließlicher Gerichtsstand für alle sich aus dem Vertragsverhältnis ergebenden
+Ansprüche Oldenburg.
+9. Anwendbares Recht, Schriftform, Wirksamkeit
+9.1
+Es gilt das Recht der Bundesrepublik Deutschland. Die Geltung des einheitlichen internationalen Kaufrechts
+(UNCITRAL-Abkommen) wird ausgeschlossen.
+9.2
+Änderungen und Ergänzungen der in diesen Bedingungen enthaltenen Bestimmungen bedürfen der Schriftform
+und der Vereinbarung im Kaufvertrag. Mündliche Nebenabreden oder schriftliche Nebenabreden binden den
+Verkäufer nur nach schriftlicher Bestätigung.
+9.3
+Sollte eine oder mehrere Bestimmungen dieser AGB unwirksam oder undurchführbar sein oder nach
+Vertragsschluss unwirksam oder undurchführbar werden, so wird dadurch die Wirksamkeit dieser AGB im Übrigen nicht berührt, § 139 BGB gilt als ausgeschlossen.</value>
+  </data>
+</root>

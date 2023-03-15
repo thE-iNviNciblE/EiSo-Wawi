@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="YabE.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <connectionStrings>
+        <add name="YabE.My.MySettings.yabeConnectionString" connectionString="persist security info=True;server=www.philafriend1.de;user id=_phil_;Password='G*VN&quot;&quot;JO|H{/2aj*';database=yabe"
+            providerName="MySql.Data.MySqlClient" />
+    </connectionStrings>
+    <system.diagnostics>
+        <sources>
+            <!-- Dieser Abschnitt definiert die Protokollierungskonfiguration für My.Application.Log -->
+            <source name="DefaultSource" switchName="DefaultSwitch">
+                <listeners>
+                    <add name="FileLog"/>
+                    <!-- Auskommentierung des nachfolgenden Abschnitts aufheben, um in das Anwendungsereignisprotokoll zu schreiben -->
+                    <!--<add name="EventLog"/>-->
+                </listeners>
+            </source>
+        </sources>
+        <switches>
+            <add name="DefaultSwitch" value="Information" />
+        </switches>
+        <sharedListeners>
+            <add name="FileLog"
+                 type="Microsoft.VisualBasic.Logging.FileLogTraceListener, Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                 initializeData="FileLogWriter"/>
+            <!-- Auskommentierung des nachfolgenden Abschnitts aufheben und APPLICATION_NAME durch den Namen der Anwendung ersetzen, um in das Anwendungsereignisprotokoll zu schreiben -->
+            <!--<add name="EventLog" type="System.Diagnostics.EventLogTraceListener" initializeData="APPLICATION_NAME"/> -->
+        </sharedListeners>
+    </system.diagnostics>
+    <userSettings>
+        <YabE.My.MySettings>
+            <setting name="lastTab" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="Sandbox_CERTID" serializeAs="String">
+                <value>0c436a7e-f918-41f7-ad4c-4b201433ab2b</value>
+            </setting>
+            <setting name="Sandbox_APPID" serializeAs="String">
+                <value>PlaneteB-31e0-4e22-9ccd-74cca8618d25</value>
+            </setting>
+            <setting name="Production_APPID" serializeAs="String">
+                <value>PlaneteB-d64f-4a42-9012-98fdec2bb3a6</value>
+            </setting>
+            <setting name="Production_CERTID" serializeAs="String">
+                <value>08b7110c-a798-417b-8157-1c4937f5187a</value>
+            </setting>
+            <setting name="yabe_username" serializeAs="String">
+                <value>admin</value>
+            </setting>
+            <setting name="yabe_pwd" serializeAs="String">
+                <value>testpwd</value>
+            </setting>
+            <setting name="popup_dauer" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="popup" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="popup_soundfile" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="email_username" serializeAs="String">
+                <value>philafriend@gmx.de</value>
+            </setting>
+            <setting name="email_pwd" serializeAs="String">
+                <value>j122448t</value>
+            </setting>
+            <setting name="email_smtp" serializeAs="String">
+                <value>smtp.gmx.de</value>
+            </setting>
+            <setting name="email_pop3" serializeAs="String">
+                <value>pop.gmx.de</value>
+            </setting>
+            <setting name="email_pop3before" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="datenbank_server" serializeAs="String">
+                <value>85.25.53.184</value>
+            </setting>
+            <setting name="datenbank_username" serializeAs="String">
+                <value>_phil_</value>
+            </setting>
+            <setting name="datenbank_pwd" serializeAs="String">
+                <value>G*VN""JO|H{/2aj*</value>
+            </setting>
+            <setting name="ebay_username" serializeAs="String">
+                <value>www.philafriend.de.vu</value>
+            </setting>
+            <setting name="ebay_production" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="google_username" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="google_pwd" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="google_server" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="app_chkAutoLiveListe" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="app_chkAutoBewertung" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="splashscreen_dauer" serializeAs="String">
+                <value>5</value>
+            </setting>
+            <setting name="splashscreen" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="email_reconect" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="ebay_ebaytime" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="Production_devname" serializeAs="String">
+                <value>F1CNFV5K1I71REJ3B5IH2DM4621CDK</value>
+            </setting>
+            <setting name="Sandbox_devname" serializeAs="String">
+                <value>F1CNFV5K1I71REJ3B5IH2DM4621CDK</value>
+            </setting>
+            <setting name="Production_SignInUrl" serializeAs="String">
+                <value>https://signin.ebay.com/ws/eBayISAPI.dll?SignIn</value>
+            </setting>
+            <setting name="Production_EpsServerUrl" serializeAs="String">
+                <value>http://msa-e1.ebay.com/ws/eBayISAPI.dll?EpsBasicApp</value>
+            </setting>
+            <setting name="Production_Version" serializeAs="String">
+                <value>459</value>
+            </setting>
+            <setting name="Production_SoapApiServerUrl" serializeAs="String">
+                <value>https://api.ebay.com/wsapi</value>
+            </setting>
+            <setting name="app_AutoLiveListeDauer" serializeAs="String">
+                <value>180</value>
+            </setting>
+            <setting name="app_AutoBewertungenHolen" serializeAs="String">
+                <value>180</value>
+            </setting>
+            <setting name="ebay_pwd" serializeAs="String">
+                <value>t13g08e</value>
+            </setting>
+            <setting name="Production_ebaytoken" serializeAs="String">
+                <value>AgAAAA**AQAAAA**aAAAAA**QXhVRw**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6wJkYqhD5aHqQ2dj6x9nY+seQ**HTYAAA**AAMAAA**bq1JevmZAfo7ZtOZ0p0xZ32XALi4CC6506+EnPXx7nuUeS/ahfSeZedQfrhXCGKanPOx1wC8KttSMx3AdwCktvg7rY/J5H2bHPUwzwK5yuGyiSlcyGABrHAruwikRAJRUKECHbTOmP32nDAkuOyBJgXeval7mHp9vnIzQeXWbWIP1AAjpHgUKPe8TaqhcdWaSUIwophEfzIWU7nlK0dQGWtQaXHYkF8pO7xwSVYtEm/DMOqs1DGCsKVsEbbnG5BTCViCq7GJU1oB2s+lGcytB5Y4p+F2TjQwoHhxeqLBo8mn1jWcCxKudaZNx5/9KUe2KvDX9b0fgFDFHqZBZ7RDuONBB4xmFCNL20yAwBuaje/YVYR+REUmrkhfP8bY65gzOMnOAEMJkp3/oWFxsCkSQYh4IEqKW8HvWDKF08PPMJUmZ+4HYIvJEDei2sGeHa5dCW9V84Bilv0ATMSI0A/gFEcRGEy08QkjBo0s20aZKzpNS89MqEmzoAucP5cwJcT3ueT6GelLY3kzwNwtk71fSm2xMwpsk4z0aNfNrAjUuYYuz+eBpPDRmfn0t/Tp9y1aGEOu5HO0Cb3ji8S7ZvfnZu8T3Bj/VIqZbArRndMYVqsVBXHjHkI7mbeK5I+uJ4rvrvDI6BOoVoX5qBNYC8OCokI3TcpSz6OQjp8Vn3ZVKFOA/udqlsrno1kkn3QsfkBl1FGJb9wIviUSOCE3z1rk0yr1kSWQxImVAZyg+F1O98+PSQZx2nr8f/EDpohj65HY</value>
+            </setting>
+            <setting name="Sandbox_ebaytoken" serializeAs="String">
+                <value>AgAAAA**AQAAAA**aAAAAA**QXhVRw**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6wJkYqhD5aHqQ2dj6x9nY+seQ**HTYAAA**AAMAAA**bq1JevmZAfo7ZtOZ0p0xZ32XALi4CC6506+EnPXx7nuUeS/ahfSeZedQfrhXCGKanPOx1wC8KttSMx3AdwCktvg7rY/J5H2bHPUwzwK5yuGyiSlcyGABrHAruwikRAJRUKECHbTOmP32nDAkuOyBJgXeval7mHp9vnIzQeXWbWIP1AAjpHgUKPe8TaqhcdWaSUIwophEfzIWU7nlK0dQGWtQaXHYkF8pO7xwSVYtEm/DMOqs1DGCsKVsEbbnG5BTCViCq7GJU1oB2s+lGcytB5Y4p+F2TjQwoHhxeqLBo8mn1jWcCxKudaZNx5/9KUe2KvDX9b0fgFDFHqZBZ7RDuONBB4xmFCNL20yAwBuaje/YVYR+REUmrkhfP8bY65gzOMnOAEMJkp3/oWFxsCkSQYh4IEqKW8HvWDKF08PPMJUmZ+4HYIvJEDei2sGeHa5dCW9V84Bilv0ATMSI0A/gFEcRGEy08QkjBo0s20aZKzpNS89MqEmzoAucP5cwJcT3ueT6GelLY3kzwNwtk71fSm2xMwpsk4z0aNfNrAjUuYYuz+eBpPDRmfn0t/Tp9y1aGEOu5HO0Cb3ji8S7ZvfnZu8T3Bj/VIqZbArRndMYVqsVBXHjHkI7mbeK5I+uJ4rvrvDI6BOoVoX5qBNYC8OCokI3TcpSz6OQjp8Vn3ZVKFOA/udqlsrno1kkn3QsfkBl1FGJb9wIviUSOCE3z1rk0yr1kSWQxImVAZyg+F1O98+PSQZx2nr8f/EDpohj65HY</value>
+            </setting>
+            <setting name="developer_email" serializeAs="String">
+                <value>the_invincible@gmx.de</value>
+            </setting>
+            <setting name="ftp_server" serializeAs="String">
+                <value>www.cubss.net</value>
+            </setting>
+            <setting name="ftp_user" serializeAs="String">
+                <value>cubss_debug</value>
+            </setting>
+            <setting name="ftp_pwd" serializeAs="String">
+                <value>lol123</value>
+            </setting>
+            <setting name="ftp_path" serializeAs="String">
+                <value>/</value>
+            </setting>
+            <setting name="developer_crash_last" serializeAs="String">
+                <value>21.05.2008 22:28</value>
+            </setting>
+            <setting name="developer_crashcount" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="app_autoupdate" serializeAs="String">
+                <value>True</value>
+            </setting>
+        </YabE.My.MySettings>
+    </userSettings>
+</configuration>
